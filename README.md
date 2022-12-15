@@ -13,4 +13,10 @@
 
 ## Usage
 
-Download the modding template and content template, add the required folders from the content template into the project, and open the project in Unreal.
+1. Download the modding template and content template
+2. Extract the modding template. This will be your project
+3. Add the required folders from the content template into the content folders of your project
+4. Copy the files inside Content/ to the content folder of your project.
+5. Open FSD.uproject!
+
+Use the batch scripts in DRGModdingAutomationScrips/ to run and package the mod.
