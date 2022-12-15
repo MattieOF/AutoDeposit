@@ -9,6 +9,7 @@
  Some folders from [Buckminsterfullerene's content template](https://drive.google.com/file/d/1LRNyJ7nmR4IWI54K9VONdjnnNSDEP-tw/view) (built with U37P8 version):
  * GameElements/Resources/*
  * UI/*
+ * Art/Fonts/*
 
 ## Usage
 
